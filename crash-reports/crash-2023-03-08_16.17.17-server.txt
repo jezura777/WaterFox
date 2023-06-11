@@ -1,0 +1,80 @@
+---- Minecraft Crash Report ----
+// Don't do that.
+
+Time: 2023-03-08 16:17:17
+Description: Exception in server tick loop
+
+java.lang.UnsatisfiedLinkError: Can't load library: /usr/lib/jvm/java-17-openjdk-17.0.6.0.10-1.fc37.x86_64/lib/libawt_xawt.so
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2393)
+	at java.base/java.lang.Runtime.load0(Runtime.java:755)
+	at java.base/java.lang.System.load(System.java:1953)
+	at java.base/jdk.internal.loader.NativeLibraries.load(Native Method)
+	at java.base/jdk.internal.loader.NativeLibraries$NativeLibraryImpl.open(NativeLibraries.java:388)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:232)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:174)
+	at java.base/jdk.internal.loader.NativeLibraries.findFromPaths(NativeLibraries.java:315)
+	at java.base/jdk.internal.loader.NativeLibraries.loadLibrary(NativeLibraries.java:285)
+	at java.base/java.lang.ClassLoader.loadLibrary(ClassLoader.java:2398)
+	at java.base/java.lang.Runtime.loadLibrary0(Runtime.java:818)
+	at java.base/java.lang.System.loadLibrary(System.java:1989)
+	at java.desktop/java.awt.Toolkit$2.run(Toolkit.java:1392)
+	at java.desktop/java.awt.Toolkit$2.run(Toolkit.java:1390)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:318)
+	at java.desktop/java.awt.Toolkit.loadLibraries(Toolkit.java:1389)
+	at java.desktop/java.awt.Toolkit.initStatic(Toolkit.java:1427)
+	at java.desktop/java.awt.Toolkit.<clinit>(Toolkit.java:1401)
+	at java.desktop/sun.awt.AppContext$2.run(AppContext.java:273)
+	at java.desktop/sun.awt.AppContext$2.run(AppContext.java:262)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:318)
+	at java.desktop/sun.awt.AppContext.initMainAppContext(AppContext.java:262)
+	at java.desktop/sun.awt.AppContext$3.run(AppContext.java:315)
+	at java.desktop/sun.awt.AppContext$3.run(AppContext.java:298)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:318)
+	at java.desktop/sun.awt.AppContext.getAppContext(AppContext.java:297)
+	at java.desktop/javax.imageio.spi.IIORegistry.getDefaultInstance(IIORegistry.java:129)
+	at java.desktop/javax.imageio.ImageIO.<clinit>(ImageIO.java:66)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:797)
+	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:795)
+	at net.minecraft.server.MinecraftServer.w(SourceFile:655)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:264)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.3
+	Minecraft Version ID: 1.19.3
+	Operating System: Linux (amd64) version 6.1.14-200.fc37.x86_64
+	Java Version: 17.0.6, Red Hat, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Red Hat, Inc.
+	Memory: 3268696576 bytes (3117 MiB) / 4294967296 bytes (4096 MiB) up to 4294967296 bytes (4096 MiB)
+	CPUs: 8
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz
+	Identifier: Intel64 Family 6 Model 60 Stepping 3
+	Microarchitecture: Haswell (Client)
+	Frequency (GHz): 2.40
+	Number of physical packages: 1
+	Number of physical CPUs: 4
+	Number of logical CPUs: 8
+	Graphics card #0 name: 4th Gen Core Processor Integrated Graphics Controller
+	Graphics card #0 vendor: Intel Corporation (0x8086)
+	Graphics card #0 VRAM (MB): 512.00
+	Graphics card #0 deviceId: 0x0416
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 16128.57
+	Virtual memory used (MB): 19086.79
+	Swap memory total (MB): 8192.00
+	Swap memory used (MB): 5336.71
+	JVM Flags: 3 total; -Xmx4G -Xms4G -XX:+UseG1GC
+	Server Running: true
+	Player Count: 0 / 4; []
+	Data Packs: vanilla
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	Is Modded: Probably not. Server jar signature and brand is untouched
+	Type: Dedicated Server (map_server.txt)

@@ -1,0 +1,42 @@
+[11:31:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:31:58] [ServerMain/INFO]: Loaded 7 recipes
+[11:31:58] [ServerMain/INFO]: Loaded 1271 advancements
+[11:31:59] [Server thread/INFO]: Starting minecraft server version 1.20
+[11:31:59] [Server thread/INFO]: Loading properties
+[11:31:59] [Server thread/INFO]: Default game type: SURVIVAL
+[11:31:59] [Server thread/INFO]: Generating keypair
+[11:32:00] [Server thread/INFO]: Starting Minecraft server on *:25566
+[11:32:00] [Server thread/INFO]: Using epoll channel type
+[11:32:00] [Server thread/INFO]: Preparing level "world"
+[11:32:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:32:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[11:32:07] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:32:08] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[11:32:08] [Worker-Main-4/INFO]: Preparing spawn area: 9%
+[11:32:09] [Worker-Main-4/INFO]: Preparing spawn area: 63%
+[11:32:09] [Server thread/INFO]: Time elapsed: 8816 ms
+[11:32:09] [Server thread/INFO]: Done (9.097s)! For help, type "help"
+[11:32:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5221ms or 104 ticks behind
+[11:43:03] [User Authenticator #1/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
+[11:43:04] [Server thread/INFO]: Jezura777[/127.0.0.1:47526] logged in with entity id 142 at (-2615.4469694963627, 154.1090104814378, 825.6503837945335)
+[11:43:04] [Server thread/INFO]: Jezura777 joined the game
+[11:43:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
+[11:44:59] [Server thread/INFO]: <Jezura777> stop
+[11:45:03] [Server thread/INFO]: [Jezura777: Stopping the server]
+[11:45:03] [Server thread/INFO]: Stopping server
+[11:45:03] [Server thread/INFO]: Saving players
+[11:45:03] [Server thread/INFO]: Saving worlds
+[11:45:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Sorter Showcase]'/minecraft:overworld

@@ -1,0 +1,47 @@
+---- Minecraft Crash Report ----
+// Ooh. Shiny.
+
+Time: 2022-11-02 17:52:20
+Description: Exception in server tick loop
+
+java.lang.IllegalStateException: Failed to initialize server
+	at net.minecraft.server.MinecraftServer.v(SourceFile:678)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Linux (amd64) version 5.18.16-200.fc36.x86_64
+	Java Version: 18.0.2.1, Azul Systems, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Azul Systems, Inc.
+	Memory: 2686770544 bytes (2562 MiB) / 3221225472 bytes (3072 MiB) up to 3221225472 bytes (3072 MiB)
+	CPUs: 8
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz
+	Identifier: Intel64 Family 6 Model 60 Stepping 3
+	Microarchitecture: Haswell (Client)
+	Frequency (GHz): 2.40
+	Number of physical packages: 1
+	Number of physical CPUs: 4
+	Number of logical CPUs: 8
+	Graphics card #0 name: 4th Gen Core Processor Integrated Graphics Controller
+	Graphics card #0 vendor: Intel Corporation (0x8086)
+	Graphics card #0 VRAM (MB): 512.00
+	Graphics card #0 deviceId: 0x0416
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 16128.16
+	Virtual memory used (MB): 19807.26
+	Swap memory total (MB): 8192.00
+	Swap memory used (MB): 6792.15
+	JVM Flags: 2 total; -Xmx3G -Xms3G
+	Server Running: true
+	Data Packs: vanilla, file/bukkit (incompatible)
+	World Generation: Stable
+	Is Modded: Probably not. Server jar signature and brand is untouched
+	Type: Dedicated Server (map_server.txt)
