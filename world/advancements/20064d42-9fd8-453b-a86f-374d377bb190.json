@@ -533,6 +533,7 @@
       "minecraft:pillager": "2022-05-27 20:58:30 +0200",
       "minecraft:blaze": "2022-05-31 20:19:01 +0200",
       "minecraft:skeleton": "2022-05-26 15:47:52 +0200",
+      "minecraft:elder_guardian": "2023-06-19 21:52:24 +0200",
       "minecraft:ravager": "2022-06-28 22:24:20 +0200",
       "minecraft:ghast": "2022-06-05 20:47:39 +0200",
       "minecraft:hoglin": "2022-05-30 16:13:30 +0200",
@@ -5125,6 +5126,72 @@
   "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2023-06-11 16:59:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-19 20:40:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-19 20:40:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2023-06-19 20:40:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2023-06-19 20:40:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2023-06-19 20:40:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-19 20:40:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-19 20:40:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2023-06-19 20:38:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2023-06-19 20:40:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2023-06-19 20:40:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2023-06-19 20:40:13 +0200"
     },
     "done": true
   },
