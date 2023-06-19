@@ -10,6 +10,6 @@ echo "Commiting with timestamp: $DATE"
 git add .
 git commit -m "$DATE"
 
-echo "Pushing to the branch Jezura777"
+echo "Pushing to the branch Jezura777 \n When you see Enter your github username enter your username \n And for the password enter personal acces token \n \n"
 
 git push origin Jezura777
