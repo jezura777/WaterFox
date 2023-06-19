@@ -3,11 +3,13 @@ java -Xmx3G -Xms3G -jar server.jar nogui
 
 DATE=$(date)
 
-echo "Commiting with timestamop: $DATE"
+git checkout Jezura777
 
+echo "Commiting with timestamp: $DATE"
+
+git add .
 git commit -m "$DATE"
 
 echo "Pushing to the branch Jezura777"
 
-git branch -M Jezura777
-git push
+git push origin Jezura777
