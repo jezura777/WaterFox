@@ -502,6 +502,7 @@
       "baked_potato": "2022-05-26 20:58:14 +0200",
       "apple": "2022-05-27 18:24:16 +0200",
       "potato": "2022-05-27 15:30:52 +0200",
+      "cooked_cod": "2023-06-20 21:43:19 +0200",
       "poisonous_potato": "2022-06-02 21:55:00 +0200",
       "pumpkin_pie": "2022-05-27 16:39:15 +0200",
       "bread": "2022-05-26 16:31:32 +0200",
@@ -512,6 +513,7 @@
       "glow_berries": "2023-04-14 20:27:12 +0200",
       "golden_carrot": "2022-05-27 20:50:21 +0200",
       "cooked_chicken": "2022-05-26 15:47:45 +0200",
+      "cod": "2023-06-20 20:34:21 +0200",
       "carrot": "2022-06-07 21:40:04 +0200"
     },
     "done": false
@@ -5129,6 +5131,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2023-06-19 20:38:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2023-06-19 20:40:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/bamboo_trapdoor": {
     "criteria": {
       "has_planks": "2023-06-19 20:40:13 +0200"
@@ -5147,12 +5161,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2023-06-19 20:40:11 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/bamboo_button": {
     "criteria": {
       "has_planks": "2023-06-19 20:40:13 +0200"
@@ -5168,12 +5176,6 @@
   "minecraft:recipes/building_blocks/bamboo_stairs": {
     "criteria": {
       "has_planks": "2023-06-19 20:40:13 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2023-06-19 20:38:54 +0200"
     },
     "done": true
   },

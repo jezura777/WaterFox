@@ -1,35 +1,73 @@
-[22:39:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:39:39] [ServerMain/INFO]: Loaded 7 recipes
-[22:39:39] [ServerMain/INFO]: Loaded 1271 advancements
-[22:39:39] [Server thread/INFO]: Starting minecraft server version 1.20
-[22:39:39] [Server thread/INFO]: Loading properties
-[22:39:39] [Server thread/INFO]: Default game type: SURVIVAL
-[22:39:39] [Server thread/INFO]: Generating keypair
-[22:39:39] [Server thread/INFO]: Starting Minecraft server on *:25566
-[22:39:39] [Server thread/INFO]: Using epoll channel type
-[22:39:40] [Server thread/INFO]: Preparing level "world"
-[22:39:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:39:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[22:39:45] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:39:45] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:39:46] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[22:39:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:39:46] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[22:39:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:39:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[22:39:46] [Worker-Main-1/INFO]: Preparing spawn area: 9%
-[22:39:47] [Worker-Main-6/INFO]: Preparing spawn area: 85%
-[22:39:47] [Server thread/INFO]: Time elapsed: 5132 ms
-[22:39:47] [Server thread/INFO]: Done (7.151s)! For help, type "help"
-[22:39:50] [Server thread/INFO]: Stopping the server
-[22:39:50] [Server thread/INFO]: Stopping server
-[22:39:50] [Server thread/INFO]: Saving players
-[22:39:50] [Server thread/INFO]: Saving worlds
-[22:39:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:40:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:40:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:40:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:40:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:40:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:40:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2470ms or 49 ticks behind
+[06:15:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[06:30:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[06:46:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[07:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
+[07:16:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2596ms or 51 ticks behind
+[07:24:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[07:39:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2570ms or 51 ticks behind
+[07:54:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2488ms or 49 ticks behind
+[08:10:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2427ms or 48 ticks behind
+[08:25:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2555ms or 51 ticks behind
+[08:40:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
+[08:55:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2585ms or 51 ticks behind
+[09:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[09:25:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2507ms or 50 ticks behind
+[09:40:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
+[09:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[10:10:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
+[10:25:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[10:40:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2478ms or 49 ticks behind
+[10:55:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
+[11:10:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[11:25:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2469ms or 49 ticks behind
+[11:40:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2487ms or 49 ticks behind
+[11:55:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2595ms or 51 ticks behind
+[12:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
+[12:25:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
+[12:41:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2487ms or 49 ticks behind
+[12:56:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[13:11:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
+[13:26:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
+[13:32:50] [User Authenticator #5/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
+[13:32:50] [Server thread/INFO]: Jezura777[/127.0.0.1:44608] logged in with entity id 22998 at (-401.30000001192093, 63.0, 285.580519408138)
+[13:32:50] [Server thread/INFO]: Jezura777 joined the game
+[14:00:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-229, y=66, z=142} gu{x=-228, y=67, z=141}
+[14:00:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-229, y=66, z=142} gu{x=-228, y=67, z=141}
+[14:00:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-229, y=66, z=142} gu{x=-228, y=67, z=141}
+[14:00:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-229, y=66, z=142} gu{x=-228, y=67, z=141}
+[14:00:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-229, y=66, z=142} gu{x=-228, y=67, z=141}
+[14:00:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-229, y=66, z=142} gu{x=-228, y=67, z=141}
+[14:27:55] [Server thread/INFO]: Jezura777 lost connection: Disconnected
+[14:27:55] [Server thread/INFO]: Jezura777 left the game
+[15:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[15:48:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[16:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[16:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[16:33:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2559ms or 51 ticks behind
+[16:48:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
+[17:15:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2575ms or 51 ticks behind
+[17:30:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2524ms or 50 ticks behind
+[17:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
+[18:00:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[18:27:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
+[18:43:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[18:58:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
+[19:13:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[20:16:23] [User Authenticator #6/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
+[20:16:24] [Server thread/INFO]: Jezura777[/127.0.0.1:36086] logged in with entity id 31170 at (-405.2436641279514, 63.0, 280.9620094883185)
+[20:16:24] [Server thread/INFO]: Jezura777 joined the game
+[20:16:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[20:18:50] [Server thread/INFO]: Jezura777 lost connection: Disconnected
+[20:18:50] [Server thread/INFO]: Jezura777 left the game
+[22:00:20] [Server thread/INFO]: Stopping the server
+[22:00:20] [Server thread/INFO]: Stopping server
+[22:00:20] [Server thread/INFO]: Saving players
+[22:00:20] [Server thread/INFO]: Saving worlds
+[22:00:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:00:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:00:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:00:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
