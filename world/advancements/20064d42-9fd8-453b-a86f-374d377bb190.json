@@ -35,6 +35,7 @@
       "minecraft:jungle": "2022-06-06 16:48:53 +0200",
       "minecraft:ocean": "2022-06-09 20:17:21 +0200",
       "minecraft:old_growth_spruce_taiga": "2022-05-26 21:33:01 +0200",
+      "minecraft:windswept_savanna": "2023-08-01 21:41:26 +0200",
       "minecraft:warm_ocean": "2022-06-29 15:00:32 +0200",
       "minecraft:deep_lukewarm_ocean": "2022-07-02 12:43:15 +0200",
       "minecraft:flower_forest": "2022-06-29 10:21:09 +0200",
@@ -5194,6 +5195,37 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2023-06-19 20:40:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2023-08-01 21:56:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2023-08-01 21:32:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2023-08-01 22:01:02 +0200",
+      "ocean_ruin_cold": "2023-08-01 21:59:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-08-01 21:32:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2023-08-01 22:01:02 +0200"
     },
     "done": true
   },
