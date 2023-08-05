@@ -1,45 +1,38 @@
-[10:31:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:31:14] [ServerMain/INFO]: Loaded 7 recipes
-[10:31:14] [ServerMain/INFO]: Loaded 1271 advancements
-[10:31:14] [Server thread/INFO]: Starting minecraft server version 1.20
-[10:31:14] [Server thread/INFO]: Loading properties
-[10:31:14] [Server thread/INFO]: Default game type: SURVIVAL
-[10:31:14] [Server thread/INFO]: Generating keypair
-[10:31:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:31:14] [Server thread/INFO]: Using default channel type
-[10:31:15] [Server thread/INFO]: Preparing level "world"
-[10:31:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:31:20] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[10:31:20] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[10:31:20] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[10:31:20] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[10:31:20] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[10:31:20] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[10:31:20] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[10:31:20] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[10:31:20] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[10:31:20] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[10:31:21] [Worker-Main-12/INFO]: Preparing spawn area: 9%
-[10:31:21] [Server thread/INFO]: Time elapsed: 5438 ms
-[10:31:21] [Server thread/INFO]: Done (6.383s)! For help, type "help"
-[10:31:45] [User Authenticator #1/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[10:31:45] [Server thread/INFO]: _ATUK_[/127.0.0.1:54677] logged in with entity id 99 at (91.42532607694201, 73.0, -350.30000001192093)
-[10:31:45] [Server thread/INFO]: _ATUK_ joined the game
-[13:02:19] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[13:02:19] [Server thread/INFO]: _ATUK_ left the game
-[13:02:22] [User Authenticator #2/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[13:02:22] [Server thread/INFO]: _ATUK_[/127.0.0.1:55139] logged in with entity id 54479 at (9.618154381102933, 62.875, -356.3309920512646)
-[13:02:22] [Server thread/INFO]: _ATUK_ joined the game
-[13:02:45] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[13:02:45] [Server thread/INFO]: _ATUK_ left the game
-[13:02:52] [Server thread/INFO]: Stopping the server
-[13:02:52] [Server thread/INFO]: Stopping server
-[13:02:52] [Server thread/INFO]: Saving players
-[13:02:52] [Server thread/INFO]: Saving worlds
-[13:02:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:02:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[13:02:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[13:02:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:02:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:02:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:02:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:29:50] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:29:51] [ServerMain/INFO]: Loaded 7 recipes
+[19:29:51] [ServerMain/INFO]: Loaded 1271 advancements
+[19:29:52] [Server thread/INFO]: Starting minecraft server version 1.20
+[19:29:52] [Server thread/INFO]: Loading properties
+[19:29:52] [Server thread/INFO]: Default game type: SURVIVAL
+[19:29:52] [Server thread/INFO]: Generating keypair
+[19:29:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:29:52] [Server thread/INFO]: Using default channel type
+[19:29:52] [Server thread/INFO]: Preparing level "world"
+[19:29:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:29:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:29:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:29:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:29:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:29:56] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:29:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:29:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:29:57] [Worker-Main-4/INFO]: Preparing spawn area: 6%
+[19:29:57] [Worker-Main-8/INFO]: Preparing spawn area: 83%
+[19:29:57] [Server thread/INFO]: Time elapsed: 4106 ms
+[19:29:57] [Server thread/INFO]: Done (4.986s)! For help, type "help"
+[19:29:57] [User Authenticator #1/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[19:29:58] [Server thread/INFO]: _ATUK_[/127.0.0.1:55727] logged in with entity id 97 at (76.81453763042863, 71.0, -336.8689170369945)
+[19:29:58] [Server thread/INFO]: _ATUK_ joined the game
+[20:03:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
+[20:15:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:18:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[22:56:37] [Server thread/INFO]: Stopping server
+[22:56:37] [Server thread/INFO]: Saving players
+[22:56:37] [Server thread/INFO]: Saving worlds
+[22:56:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:56:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:56:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:56:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:56:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:56:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:56:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
