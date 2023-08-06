@@ -1,38 +1,38 @@
-[19:29:50] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:29:51] [ServerMain/INFO]: Loaded 7 recipes
-[19:29:51] [ServerMain/INFO]: Loaded 1271 advancements
-[19:29:52] [Server thread/INFO]: Starting minecraft server version 1.20
-[19:29:52] [Server thread/INFO]: Loading properties
-[19:29:52] [Server thread/INFO]: Default game type: SURVIVAL
-[19:29:52] [Server thread/INFO]: Generating keypair
-[19:29:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:29:52] [Server thread/INFO]: Using default channel type
-[19:29:52] [Server thread/INFO]: Preparing level "world"
-[19:29:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:29:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[19:29:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[19:29:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[19:29:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[19:29:56] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[19:29:56] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[19:29:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:29:57] [Worker-Main-4/INFO]: Preparing spawn area: 6%
-[19:29:57] [Worker-Main-8/INFO]: Preparing spawn area: 83%
-[19:29:57] [Server thread/INFO]: Time elapsed: 4106 ms
-[19:29:57] [Server thread/INFO]: Done (4.986s)! For help, type "help"
-[19:29:57] [User Authenticator #1/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[19:29:58] [Server thread/INFO]: _ATUK_[/127.0.0.1:55727] logged in with entity id 97 at (76.81453763042863, 71.0, -336.8689170369945)
-[19:29:58] [Server thread/INFO]: _ATUK_ joined the game
-[20:03:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
-[20:15:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[21:18:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
-[22:56:37] [Server thread/INFO]: Stopping server
-[22:56:37] [Server thread/INFO]: Saving players
-[22:56:37] [Server thread/INFO]: Saving worlds
-[22:56:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:56:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:56:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:56:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:56:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:56:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:56:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:49:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11:49:38] [ServerMain/INFO]: Loaded 7 recipes
+[11:49:38] [ServerMain/INFO]: Loaded 1271 advancements
+[11:49:38] [Server thread/INFO]: Starting minecraft server version 1.20
+[11:49:38] [Server thread/INFO]: Loading properties
+[11:49:38] [Server thread/INFO]: Default game type: SURVIVAL
+[11:49:38] [Server thread/INFO]: Generating keypair
+[11:49:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:49:38] [Server thread/INFO]: Using default channel type
+[11:49:39] [Server thread/INFO]: Preparing level "world"
+[11:49:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:49:42] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[11:49:42] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[11:49:42] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[11:49:42] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[11:49:42] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[11:49:42] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[11:49:42] [Worker-Main-14/INFO]: Preparing spawn area: 9%
+[11:49:43] [Server thread/INFO]: Time elapsed: 3359 ms
+[11:49:43] [Server thread/INFO]: Done (4.091s)! For help, type "help"
+[11:50:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c6eae61[id=<null>,name=_ATUK_,properties={},legacy=false] (/127.0.0.1:56957) lost connection: Disconnected
+[11:51:12] [User Authenticator #1/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[11:51:13] [Server thread/INFO]: _ATUK_[/127.0.0.1:57042] logged in with entity id 96 at (88.21187884565202, 71.0, -316.97814456427125)
+[11:51:13] [Server thread/INFO]: _ATUK_ joined the game
+[12:55:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[13:11:48] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[13:11:48] [Server thread/INFO]: _ATUK_ left the game
+[13:11:56] [Server thread/INFO]: Stopping the server
+[13:11:56] [Server thread/INFO]: Stopping server
+[13:11:56] [Server thread/INFO]: Saving players
+[13:11:56] [Server thread/INFO]: Saving worlds
+[13:11:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:11:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:11:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:11:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:11:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:11:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:11:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
