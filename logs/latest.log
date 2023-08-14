@@ -1,74 +1,61 @@
-[16:54:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:54:39] [ServerMain/INFO]: Loaded 7 recipes
-[16:54:39] [ServerMain/INFO]: Loaded 1271 advancements
-[16:54:41] [Server thread/INFO]: Starting minecraft server version 1.20
-[16:54:41] [Server thread/INFO]: Loading properties
-[16:54:41] [Server thread/INFO]: Default game type: SURVIVAL
-[16:54:41] [Server thread/INFO]: Generating keypair
-[16:54:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:54:41] [Server thread/INFO]: Using default channel type
-[16:54:41] [Server thread/INFO]: Preparing level "world"
-[16:54:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:54:45] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[16:54:45] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[16:54:45] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[16:54:45] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[16:54:45] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[16:54:45] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[16:54:46] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[16:54:46] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[16:54:47] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:54:47] [Worker-Main-7/INFO]: Preparing spawn area: 6%
-[16:54:48] [Worker-Main-3/INFO]: Preparing spawn area: 55%
-[16:54:48] [Server thread/INFO]: Time elapsed: 5376 ms
-[16:54:48] [Server thread/INFO]: Done (7.029s)! For help, type "help"
-[17:00:42] [User Authenticator #1/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[17:00:42] [Server thread/INFO]: _ATUK_[/127.0.0.1:50528] logged in with entity id 89 at (72.05419425976592, 83.0, -345.0237110814781)
-[17:00:42] [Server thread/INFO]: _ATUK_ joined the game
-[17:04:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
-[17:37:50] [Server thread/WARN]: _ATUK_ moved wrongly!
-[18:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
-[18:14:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[18:15:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9007ms or 180 ticks behind
-[18:41:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
-[18:41:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6845ms or 136 ticks behind
-[18:41:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2462ms or 49 ticks behind
-[18:45:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
-[18:58:30] [Server thread/WARN]: _ATUK_ moved wrongly!
-[19:02:18] [Server thread/WARN]: _ATUK_ moved wrongly!
-[19:26:54] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;569,-52,-1027],type:"minecraft:block"}}]
-[19:26:54] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;569,-52,-1026],type:"minecraft:block"}}]
-[19:26:54] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;567,-51,-1037],type:"minecraft:block"}}]
-[19:26:54] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;565,-52,-1034],type:"minecraft:block"}}]
-[19:29:26] [Server thread/WARN]: _ATUK_ moved wrongly!
-[20:03:32] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[20:03:32] [Server thread/INFO]: _ATUK_ left the game
-[20:04:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@4c405a1d[id=<null>,name=_ATUK_,properties={},legacy=false] (/127.0.0.1:51239) lost connection: Disconnected
-[20:05:57] [User Authenticator #2/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[20:05:57] [Server thread/INFO]: _ATUK_[/127.0.0.1:51332] logged in with entity id 53987 at (69.25697861875562, 68.0, -399.16647506585304)
-[20:05:57] [Server thread/INFO]: _ATUK_ joined the game
-[20:06:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2133ms or 42 ticks behind
-[20:20:09] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=54, y=64, z=-397} gu{x=53, y=63, z=-397}
-[20:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
-[21:21:57] [Server thread/WARN]: _ATUK_ moved wrongly!
-[21:46:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[21:46:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
-[21:49:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[21:50:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[22:08:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2150ms or 43 ticks behind
-[22:50:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
-[23:07:00] [Server thread/WARN]: _ATUK_ moved wrongly!
-[23:07:00] [Server thread/WARN]: _ATUK_ moved wrongly!
-[23:40:38] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[23:40:38] [Server thread/INFO]: _ATUK_ left the game
-[23:40:51] [Server thread/INFO]: Stopping the server
-[23:40:51] [Server thread/INFO]: Stopping server
-[23:40:51] [Server thread/INFO]: Saving players
-[23:40:51] [Server thread/INFO]: Saving worlds
-[23:40:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:40:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:40:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:40:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:40:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:40:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:40:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:28:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:28:52] [ServerMain/INFO]: Loaded 7 recipes
+[21:28:52] [ServerMain/INFO]: Loaded 1271 advancements
+[21:28:53] [Server thread/INFO]: Starting minecraft server version 1.20
+[21:28:53] [Server thread/INFO]: Loading properties
+[21:28:53] [Server thread/INFO]: Default game type: SURVIVAL
+[21:28:53] [Server thread/INFO]: Generating keypair
+[21:28:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:28:54] [Server thread/INFO]: Using default channel type
+[21:28:54] [Server thread/INFO]: Preparing level "world"
+[21:28:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:28:58] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:58] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:28:58] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:28:58] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:28:58] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[21:28:58] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[21:28:58] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[21:28:59] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:28:59] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[21:29:00] [Worker-Main-10/INFO]: Preparing spawn area: 37%
+[21:29:00] [Server thread/INFO]: Time elapsed: 4955 ms
+[21:29:00] [Server thread/INFO]: Done (6.188s)! For help, type "help"
+[21:29:20] [User Authenticator #1/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[21:29:20] [Server thread/INFO]: _ATUK_[/127.0.0.1:50901] logged in with entity id 88 at (37.76249998807907, 64.0, -350.76027293750985)
+[21:29:20] [Server thread/INFO]: _ATUK_ joined the game
+[21:29:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[21:31:07] [User Authenticator #2/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
+[21:31:07] [Server thread/INFO]: Jezura777[/127.0.0.1:50914] logged in with entity id 1513 at (16.682668893652217, 63.0, -360.35155841925217)
+[21:31:07] [Server thread/INFO]: Jezura777 joined the game
+[21:44:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
+[21:53:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[21:56:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[21:56:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[21:58:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[22:00:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[22:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[22:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[22:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
+[22:04:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2821ms or 56 ticks behind
+[22:06:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[22:13:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=47, y=62, z=-336} gu{x=48, y=61, z=-337}
+[22:20:37] [Server thread/INFO]: _ATUK_ has made the advancement [Wax On]
+[22:20:39] [Server thread/INFO]: _ATUK_ has made the advancement [Wax Off]
+[22:23:38] [Server thread/INFO]: Jezura777 has made the advancement [Wax Off]
+[22:23:47] [Server thread/INFO]: Jezura777 has made the advancement [Wax On]
+[22:34:22] [Server thread/INFO]: Jezura777 lost connection: Disconnected
+[22:34:22] [Server thread/INFO]: Jezura777 left the game
+[22:35:54] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[22:35:54] [Server thread/INFO]: _ATUK_ left the game
+[22:36:20] [Server thread/INFO]: Stopping the server
+[22:36:20] [Server thread/INFO]: Stopping server
+[22:36:20] [Server thread/INFO]: Saving players
+[22:36:20] [Server thread/INFO]: Saving worlds
+[22:36:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:36:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:36:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:36:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:36:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:36:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:36:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
