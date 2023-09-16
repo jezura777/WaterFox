@@ -1,13 +1,54 @@
-[00:17:27] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[00:17:28] [Server thread/INFO]: _ATUK_ left the game
-[00:17:41] [Server thread/INFO]: Stopping the server
-[00:17:41] [Server thread/INFO]: Stopping server
-[00:17:41] [Server thread/INFO]: Saving players
-[00:17:41] [Server thread/INFO]: Saving worlds
-[00:17:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:17:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:17:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:17:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:58:56] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:58:58] [ServerMain/INFO]: Loaded 7 recipes
+[18:58:58] [ServerMain/INFO]: Loaded 1271 advancements
+[18:58:59] [Server thread/INFO]: Starting minecraft server version 1.20
+[18:58:59] [Server thread/INFO]: Loading properties
+[18:58:59] [Server thread/INFO]: Default game type: SURVIVAL
+[18:58:59] [Server thread/INFO]: Generating keypair
+[18:58:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:58:59] [Server thread/INFO]: Using default channel type
+[18:58:59] [Server thread/INFO]: Preparing level "world"
+[18:59:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:59:02] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[18:59:02] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[18:59:02] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:59:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:59:02] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[18:59:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:59:03] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[18:59:03] [Worker-Main-3/INFO]: Preparing spawn area: 7%
+[18:59:04] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[18:59:04] [Server thread/INFO]: Time elapsed: 4097 ms
+[18:59:04] [Server thread/INFO]: Done (4.925s)! For help, type "help"
+[19:00:37] [User Authenticator #1/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[19:00:38] [Server thread/INFO]: _ATUK_[/127.0.0.1:59022] logged in with entity id 87 at (79.69762734850968, 73.0, -300.64543549071834)
+[19:00:38] [Server thread/INFO]: _ATUK_ joined the game
+[19:20:25] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[19:20:25] [Server thread/INFO]: _ATUK_ left the game
+[20:01:34] [User Authenticator #2/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[20:01:34] [Server thread/INFO]: _ATUK_[/127.0.0.1:60906] logged in with entity id 6711 at (29.45163867625616, 55.0, -345.4346418484212)
+[20:01:34] [Server thread/INFO]: _ATUK_ joined the game
+[20:30:28] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;1400,-54,-909],type:"minecraft:block"}}]
+[20:30:28] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;1401,-54,-900],type:"minecraft:block"}}]
+[20:30:28] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;1403,-54,-905],type:"minecraft:block"}}]
+[20:30:28] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;1403,-54,-895],type:"minecraft:block"}}]
+[20:30:28] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;1402,-54,-896],type:"minecraft:block"}}]
+[20:30:28] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;1406,-54,-896],type:"minecraft:block"}}]
+[20:30:28] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;1392,-37,-951],type:"minecraft:block"}}]
+[20:30:31] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;1356,-49,-1024],type:"minecraft:block"}}]
+[21:00:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=74, y=70, z=-372} gu{x=74, y=71, z=-373}
+[21:00:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=74, y=70, z=-372} gu{x=74, y=71, z=-373}
+[21:00:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=74, y=70, z=-372} gu{x=74, y=70, z=-373}
+[21:26:08] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[21:26:08] [Server thread/INFO]: _ATUK_ left the game
+[21:27:41] [Server thread/INFO]: Stopping the server
+[21:27:41] [Server thread/INFO]: Stopping server
+[21:27:41] [Server thread/INFO]: Saving players
+[21:27:41] [Server thread/INFO]: Saving worlds
+[21:27:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:27:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:27:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:27:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:27:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:27:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:27:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
