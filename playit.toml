@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 last_update = 1695849649754
+=======
+last_update = 1695849569345
+>>>>>>> Stashed changes
 api_url = "https://api.playit.cloud/agent"
 ping_target_addresses = []
 control_address = "control.playit.gg"
