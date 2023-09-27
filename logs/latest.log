@@ -1,25 +1,37 @@
-<<<<<<< Updated upstream
-[23:33:26] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[23:33:28] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:33:29] [ServerMain/INFO]: Loaded 7 recipes
-[23:33:29] [ServerMain/INFO]: Loaded 1271 advancements
-[23:33:29] [Server thread/INFO]: Starting minecraft server version 1.20
-[23:33:29] [Server thread/INFO]: Loading properties
-[23:33:29] [Server thread/INFO]: Default game type: SURVIVAL
-[23:33:29] [Server thread/INFO]: Generating keypair
-[23:33:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:33:29] [Server thread/INFO]: Using default channel type
-[23:33:29] [Server thread/INFO]: Preparing level "world"
-[23:33:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:33:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:33:31] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[23:33:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[23:33:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[23:33:32] [Worker-Main-2/INFO]: Preparing spawn area: 35%
-[23:33:32] [Server thread/INFO]: Time elapsed: 2197 ms
-[23:33:32] [Server thread/INFO]: Done (2.732s)! For help, type "help"
-[23:34:07] [User Authenticator #1/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
-[23:34:07] [Server thread/ERROR]: Unable to parse Stat data from .\world\stats\9c7e9743-757f-48cc-9355-9fd7de264ba0.json
+[23:38:19] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[23:38:22] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:38:22] [ServerMain/WARN]: Failed to load profile cache .\usercache.json
+com.google.gson.JsonSyntaxException: Expected a com.google.gson.JsonArray but was com.google.gson.JsonPrimitive; at path $
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1010) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1062) ~[gson-2.10.jar:?]
+	at alg.b(SourceFile:202) ~[server-1.20.jar:?]
+	at alg.<init>(SourceFile:68) ~[server-1.20.jar:?]
+	at adh.a(SourceFile:20) ~[server-1.20.jar:?]
+	at net.minecraft.server.Main.main(SourceFile:132) ~[server-1.20.jar:?]
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[23:38:23] [ServerMain/INFO]: Loaded 7 recipes
+[23:38:23] [ServerMain/INFO]: Loaded 1271 advancements
+[23:38:23] [Server thread/INFO]: Starting minecraft server version 1.20
+[23:38:23] [Server thread/INFO]: Loading properties
+[23:38:23] [Server thread/INFO]: Default game type: SURVIVAL
+[23:38:23] [Server thread/INFO]: Generating keypair
+[23:38:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:38:23] [Server thread/INFO]: Using default channel type
+[23:38:23] [Server thread/INFO]: Preparing level "world"
+[23:38:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:38:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[23:38:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[23:38:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[23:38:26] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[23:38:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[23:38:26] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[23:38:27] [Server thread/INFO]: Time elapsed: 2822 ms
+[23:38:27] [Server thread/INFO]: Done (3.494s)! For help, type "help"
+[23:39:05] [User Authenticator #1/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
+[23:39:06] [Server thread/ERROR]: Unable to parse Stat data from .\world\stats\9c7e9743-757f-48cc-9355-9fd7de264ba0.json
 com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 1 path $
 	at com.google.gson.internal.Streams.parse(Streams.java:61) ~[gson-2.10.jar:?]
 	at amn.a(SourceFile:81) ~[server-1.20.jar:?]
@@ -44,101 +56,18 @@ Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLeni
 	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.jar:?]
 	at com.google.gson.internal.Streams.parse(Streams.java:47) ~[gson-2.10.jar:?]
 	... 15 more
-[23:34:07] [Server thread/INFO]: Jezura777[/127.0.0.1:64997] logged in with entity id 93 at (-387.6824207789668, 40.0, 290.48750001192093)
-[23:34:07] [Server thread/INFO]: Jezura777 joined the game
-[23:34:13] [Server thread/INFO]: Jezura777 lost connection: Disconnected
-[23:34:13] [Server thread/INFO]: Jezura777 left the game
-=======
-[21:44:14] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[21:44:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:44:17] [ServerMain/INFO]: Loaded 7 recipes
-[21:44:17] [ServerMain/INFO]: Loaded 1271 advancements
-[21:44:17] [Server thread/INFO]: Starting minecraft server version 1.20
-[21:44:17] [Server thread/INFO]: Loading properties
-[21:44:17] [Server thread/INFO]: Default game type: SURVIVAL
-[21:44:17] [Server thread/INFO]: Generating keypair
-[21:44:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:44:17] [Server thread/INFO]: Using default channel type
-[21:44:17] [Server thread/INFO]: Preparing level "world"
-[21:44:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:44:19] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[21:44:19] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[21:44:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[21:44:20] [Worker-Main-1/INFO]: Preparing spawn area: 31%
-[21:44:20] [Server thread/INFO]: Time elapsed: 1632 ms
-[21:44:20] [Server thread/INFO]: Done (2.145s)! For help, type "help"
-[21:44:28] [User Authenticator #1/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
-[21:44:28] [Server thread/INFO]: Jezura777[/127.0.0.1:63991] logged in with entity id 85 at (14.699999988079071, 124.0, -40.69999998807907)
-[21:44:28] [Server thread/INFO]: Jezura777 joined the game
-[21:47:04] [User Authenticator #2/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[21:47:04] [Server thread/INFO]: _ATUK_[/127.218.32.87:64053] logged in with entity id 806 at (5.284104216292074, 128.0, -58.34154078315536)
-[21:47:04] [Server thread/INFO]: _ATUK_ joined the game
-[21:48:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22527ms or 450 ticks behind
-[21:48:34] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[21:48:34] [Server thread/INFO]: _ATUK_ left the game
-[21:48:35] [User Authenticator #3/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[21:48:41] [Server thread/INFO]: Jezura777 lost connection: Disconnected
-[21:48:41] [Server thread/INFO]: Jezura777 left the game
-[21:48:41] [Server thread/INFO]: _ATUK_[/127.218.32.87:64070] logged in with entity id 1110 at (8.847800772574288, 128.0, -53.2290982899928)
-[21:48:41] [Server thread/INFO]: _ATUK_ joined the game
-[21:48:44] [User Authenticator #4/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
-[21:48:44] [Server thread/INFO]: Jezura777[/127.44.106.218:64080] logged in with entity id 1122 at (7.546705118202991, 128.0, -56.72259847503256)
-[21:48:44] [Server thread/INFO]: Jezura777 joined the game
-[21:55:06] [Server thread/WARN]: Jezura777 was kicked for floating too long!
-[21:55:06] [Server thread/INFO]: Jezura777 lost connection: Flying is not enabled on this server
-[21:55:06] [Server thread/INFO]: Jezura777 left the game
-[21:55:22] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[21:55:22] [Server thread/INFO]: _ATUK_ left the game
-[21:55:30] [User Authenticator #5/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
-[21:55:30] [Server thread/INFO]: Jezura777[/127.44.106.218:64111] logged in with entity id 4887 at (16.308370393081393, 125.00133597911214, -43.2499426202674)
-[21:55:30] [Server thread/INFO]: Jezura777 joined the game
-[21:56:31] [User Authenticator #6/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[21:56:31] [Server thread/INFO]: _ATUK_[/127.218.32.87:64133] logged in with entity id 5412 at (50.5, 62.0, -335.6158378961572)
-[21:56:31] [Server thread/INFO]: _ATUK_ joined the game
-[22:01:55] [Server thread/INFO]: <_ATUK_> ja te slisim
-[22:12:56] [Server thread/INFO]: Jezura777 was burnt to a crisp whilst fighting _ATUK_
-[22:13:44] [Server thread/INFO]: _ATUK_ was slain by Jezura777
-[22:15:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4906ms or 98 ticks behind
-[22:16:31] [Server thread/WARN]: Jezura777 moved too quickly! 3.644331820909823,-2.704000688447394,17.235345706302468
-[22:16:31] [Server thread/WARN]: _ATUK_ moved too quickly! 9.100455013464796,0.0,4.188552566943912
-[22:16:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41234ms or 824 ticks behind
-[22:37:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:37:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=25, y=83, z=-42} gu{x=25, y=84, z=-42}
-[22:43:51] [Server thread/WARN]: _ATUK_ moved too quickly! 7.507897998382447,2.9304119388621075,-6.609362351614713
-[22:49:28] [Server thread/INFO]: <_ATUK_> 256
-[22:51:28] [Server thread/INFO]: _ATUK_ fell from a high place
-[22:55:15] [Server thread/INFO]: Jezura777 was doomed to fall by _ATUK_
-[22:55:39] [Server thread/INFO]: _ATUK_ lost connection: unfriendly behaviour
-[22:55:39] [Server thread/INFO]: _ATUK_ left the game
-[22:55:49] [User Authenticator #7/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[22:55:49] [Server thread/INFO]: _ATUK_[/127.218.32.87:64443] logged in with entity id 41842 at (-145.8059305079985, 256.0, -66.21520182887758)
-[22:55:49] [Server thread/INFO]: _ATUK_ joined the game
-[22:57:24] [Server thread/INFO]: Jezura777 lost connection: Disconnected
-[22:57:24] [Server thread/INFO]: Jezura777 left the game
-[23:17:32] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[23:17:32] [Server thread/INFO]: _ATUK_ left the game
-[23:18:03] [Server thread/INFO]: Stopping the server
-[23:18:03] [Server thread/INFO]: Stopping server
-[23:18:03] [Server thread/INFO]: Saving players
-[23:18:03] [Server thread/INFO]: Saving worlds
-[23:18:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:18:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:18:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:18:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:18:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:18:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:18:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
->>>>>>> Stashed changes
+[23:39:06] [Server thread/INFO]: Jezura777[/127.0.0.1:65179] logged in with entity id 93 at (-387.6824207789668, 40.0, 290.48750001192093)
+[23:39:06] [Server thread/INFO]: Jezura777 joined the game
+[23:39:10] [Server thread/INFO]: Jezura777 lost connection: Disconnected
+[23:39:10] [Server thread/INFO]: Jezura777 left the game
+[23:39:24] [Server thread/INFO]: Stopping the server
+[23:39:24] [Server thread/INFO]: Stopping server
+[23:39:24] [Server thread/INFO]: Saving players
+[23:39:24] [Server thread/INFO]: Saving worlds
+[23:39:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:39:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:39:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:39:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:39:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:39:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:39:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
