@@ -1,34 +1,41 @@
-[23:42:22] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[23:42:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:42:25] [ServerMain/INFO]: Loaded 7 recipes
-[23:42:25] [ServerMain/INFO]: Loaded 1271 advancements
-[23:42:25] [Server thread/INFO]: Starting minecraft server version 1.20
-[23:42:25] [Server thread/INFO]: Loading properties
-[23:42:25] [Server thread/INFO]: Default game type: SURVIVAL
-[23:42:25] [Server thread/INFO]: Generating keypair
-[23:42:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:42:25] [Server thread/INFO]: Using default channel type
-[23:42:25] [Server thread/INFO]: Preparing level "world"
-[23:42:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:42:26] [User Authenticator #1/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
-[23:42:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[23:42:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[23:42:27] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[23:42:27] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[23:42:28] [Server thread/INFO]: Time elapsed: 1939 ms
-[23:42:28] [Server thread/INFO]: Done (2.514s)! For help, type "help"
-[23:42:28] [Server thread/INFO]: Jezura777[/127.0.0.1:65269] logged in with entity id 83 at (15.010338275511886, 50.0, -332.69999998807907)
-[23:42:28] [Server thread/INFO]: Jezura777 joined the game
-[23:45:39] [Server thread/INFO]: Jezura777 lost connection: Disconnected
-[23:45:39] [Server thread/INFO]: Jezura777 left the game
-[23:45:43] [Server thread/INFO]: Stopping the server
-[23:45:43] [Server thread/INFO]: Stopping server
-[23:45:43] [Server thread/INFO]: Saving players
-[23:45:43] [Server thread/INFO]: Saving worlds
-[23:45:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:45:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:45:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:45:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:06:52] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[21:06:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:06:54] [ServerMain/INFO]: Loaded 7 recipes
+[21:06:54] [ServerMain/INFO]: Loaded 1271 advancements
+[21:06:55] [Server thread/INFO]: Starting minecraft server version 1.20
+[21:06:55] [Server thread/INFO]: Loading properties
+[21:06:55] [Server thread/INFO]: Default game type: SURVIVAL
+[21:06:55] [Server thread/INFO]: Generating keypair
+[21:06:55] [Server thread/INFO]: Starting Minecraft server on *:25566
+[21:06:55] [Server thread/INFO]: Using default channel type
+[21:06:55] [Server thread/INFO]: Preparing level "world"
+[21:06:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:06:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:06:56] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:06:56] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:06:57] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[21:06:57] [Server thread/INFO]: Time elapsed: 1771 ms
+[21:06:57] [Server thread/INFO]: Done (2.308s)! For help, type "help"
+[21:07:03] [User Authenticator #1/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[21:07:03] [Server thread/INFO]: _ATUK_[/127.58.241.148:49707] logged in with entity id 83 at (63.066146306551225, 71.0, -343.571329532026)
+[21:07:03] [Server thread/INFO]: _ATUK_ joined the game
+[21:07:08] [User Authenticator #2/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
+[21:07:08] [Server thread/INFO]: Jezura777[/127.0.0.1:49711] logged in with entity id 703 at (40.082980142515495, 64.0, -335.54515752033774)
+[21:07:08] [Server thread/INFO]: Jezura777 joined the game
+[22:22:32] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[22:22:32] [Server thread/INFO]: _ATUK_ left the game
+[22:23:15] [Server thread/INFO]: Jezura777 lost connection: Disconnected
+[22:23:15] [Server thread/INFO]: Jezura777 left the game
+[22:23:37] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:23:37] [Server thread/INFO]: STOP<--[HERE]
+[22:23:40] [Server thread/INFO]: Stopping the server
+[22:23:40] [Server thread/INFO]: Stopping server
+[22:23:40] [Server thread/INFO]: Saving players
+[22:23:40] [Server thread/INFO]: Saving worlds
+[22:23:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:23:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:23:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:23:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:23:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:23:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:23:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -1,22 +1,21 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-last_update = 1695849709816
-=======
-last_update = 1695849569345
->>>>>>> Stashed changes
-=======
-last_update = 1695849682378
->>>>>>> Stashed changes
+last_update = 1696796610884
 api_url = "https://api.playit.cloud/agent"
 ping_target_addresses = []
 control_address = "control.playit.gg"
 refresh_from_api = true
 api_refresh_rate = 5000
 ping_interval = 5000
-secret_key = "e5a0f97f24dc1e7e625d23527588268a550e521c964c0bd4a41336ca8bf32c53"
+secret_key = "c323d216ac5a21ab6add407855a7bd4606e4be12c00d7b1cb8577109d16fc79a"
+
+[[mappings]]
+name = "Minecraft Java"
+proto = "tcp"
+tunnel_ip = "147.185.221.16"
+tunnel_from_port = 12872
+local_port = 25566
 
 [[mappings]]
 proto = "tcp"
 tunnel_ip = "147.185.221.223"
-tunnel_from_port = 37139
-local_port = 25565
+tunnel_from_port = 32915
+local_port = 25566
