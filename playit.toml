@@ -1,11 +1,11 @@
-last_update = 1696796610884
+last_update = 1696882586228
 api_url = "https://api.playit.cloud/agent"
 ping_target_addresses = []
 control_address = "control.playit.gg"
 refresh_from_api = true
 api_refresh_rate = 5000
 ping_interval = 5000
-secret_key = "c323d216ac5a21ab6add407855a7bd4606e4be12c00d7b1cb8577109d16fc79a"
+secret_key = "50fb1d997e4088414314db203ddbf6622578332fb32a21b2182492ce14e4bc9a"
 
 [[mappings]]
 name = "Minecraft Java"
