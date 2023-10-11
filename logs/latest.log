@@ -1,82 +1,68 @@
-[21:04:26] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[21:04:28] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:04:29] [ServerMain/INFO]: Loaded 7 recipes
-[21:04:29] [ServerMain/INFO]: Loaded 1271 advancements
-[21:04:29] [Server thread/INFO]: Starting minecraft server version 1.20
-[21:04:29] [Server thread/INFO]: Loading properties
-[21:04:29] [Server thread/INFO]: Default game type: SURVIVAL
-[21:04:29] [Server thread/INFO]: Generating keypair
-[21:04:29] [Server thread/INFO]: Starting Minecraft server on *:25566
-[21:04:30] [Server thread/INFO]: Using default channel type
-[21:04:30] [Server thread/INFO]: Preparing level "world"
-[21:04:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:04:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:04:31] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[21:04:31] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[21:04:32] [Worker-Main-3/INFO]: Preparing spawn area: 26%
-[21:04:32] [Server thread/INFO]: Time elapsed: 1687 ms
-[21:04:32] [Server thread/INFO]: Done (2.226s)! For help, type "help"
-[21:07:37] [User Authenticator #1/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
-[21:07:37] [Server thread/INFO]: Jezura777[/127.0.0.1:50529] logged in with entity id 84 at (14.177135567367154, 63.0, -350.27414825458663)
-[21:07:37] [Server thread/INFO]: Jezura777 joined the game
-[21:09:13] [User Authenticator #2/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[21:09:13] [Server thread/INFO]: _ATUK_[/127.93.242.16:50550] logged in with entity id 1364 at (95.30881337111227, 70.0, -345.30000001192093)
-[21:09:13] [Server thread/INFO]: _ATUK_ joined the game
-[21:09:41] [Server thread/WARN]: _ATUK_ moved wrongly!
-[21:13:43] [Server thread/INFO]: _ATUK_ lost connection: Timed out
-[21:13:43] [Server thread/INFO]: _ATUK_ left the game
-[21:13:43] [User Authenticator #3/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[21:13:44] [Server thread/INFO]: _ATUK_[/127.93.242.16:50607] logged in with entity id 6275 at (34.83621405157688, 88.50120732550894, -187.25639792037003)
-[21:13:44] [Server thread/INFO]: _ATUK_ joined the game
-[21:16:40] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;415,-49,1070],type:"minecraft:block"}}]
-[21:16:40] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;416,-48,1070],type:"minecraft:block"}}]
-[21:16:41] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;411,-49,1074],type:"minecraft:block"}}]
-[21:17:35] [Server thread/WARN]: Horse (vehicle of Jezura777) moved wrongly! 1.3804029591980225
-[21:17:38] [Server thread/WARN]: Boat (vehicle of _ATUK_) moved wrongly! 0.30771954348185204
-[21:17:53] [Server thread/WARN]: Boat (vehicle of _ATUK_) moved wrongly! 0.3240298774431949
-[21:17:53] [Server thread/WARN]: Boat (vehicle of _ATUK_) moved wrongly! 0.32141088396906525
-[21:17:53] [Server thread/WARN]: Boat (vehicle of _ATUK_) moved wrongly! 0.49419134734284853
-[21:17:54] [Server thread/WARN]: Boat (vehicle of _ATUK_) moved wrongly! 0.5072410731502259
-[21:17:54] [Server thread/WARN]: Boat (vehicle of _ATUK_) moved wrongly! 0.2909773126652908
-[21:17:54] [Server thread/WARN]: Boat (vehicle of _ATUK_) moved wrongly! 0.6078431892606204
-[21:17:54] [Server thread/WARN]: Boat (vehicle of _ATUK_) moved wrongly! 0.352067733271042
-[21:17:54] [Server thread/WARN]: Boat (vehicle of _ATUK_) moved wrongly! 0.7044721941538228
-[21:17:54] [Server thread/WARN]: Boat (vehicle of _ATUK_) moved wrongly! 0.294678264955337
-[21:17:54] [Server thread/WARN]: Boat (vehicle of _ATUK_) moved wrongly! 0.27020510022521194
-[21:17:55] [Server thread/WARN]: Boat (vehicle of _ATUK_) moved wrongly! 0.4208692738702666
-[21:18:22] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;494,-44,1475],type:"minecraft:block"}}]
-[21:18:22] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;495,-44,1474],type:"minecraft:block"}}]
-[21:18:22] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;488,-54,1371],type:"minecraft:block"}}]
-[21:18:25] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;503,-38,1446],type:"minecraft:block"}}]
-[21:18:25] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;503,-39,1444],type:"minecraft:block"}}]
-[21:18:25] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:4.5f,range:8,source:{pos:[I;502,-39,1440],type:"minecraft:block"}}]
-[21:18:25] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:5.1234756f,range:8,source:{pos:[I;503,-39,1441],type:"minecraft:block"}}]
-[21:18:25] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;507,-39,1446],type:"minecraft:block"}}]
-[21:18:25] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;509,-38,1448],type:"minecraft:block"}}]
-[21:18:25] [Server thread/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;499,-40,1471],type:"minecraft:block"}}]
-[21:18:32] [Server thread/WARN]: Boat (vehicle of Jezura777) moved wrongly! 0.34967273934535115
-[21:18:32] [Server thread/WARN]: Boat (vehicle of Jezura777) moved wrongly! 0.3029332140617953
-[21:18:32] [Server thread/WARN]: Boat (vehicle of Jezura777) moved wrongly! 0.26086764242086247
-[21:27:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-210, y=43, z=1608} gu{x=-210, y=44, z=1608}
-[21:48:38] [Server thread/WARN]: _ATUK_ moved too quickly! -0.284232056979306,-19.646692511761287,2.0297469938486756
-[21:49:02] [Server thread/WARN]: _ATUK_ moved too quickly! -0.019062231283385245,-19.782074926576186,0.01559326757751478
-[21:53:32] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-565, y=62, z=2577} gu{x=-566, y=63, z=2575}
-[21:53:44] [Server thread/WARN]: Jezura777 moved wrongly!
-[21:58:02] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-642, y=62, z=2711} gu{x=-642, y=60, z=2711}
-[21:58:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-642, y=62, z=2711} gu{x=-641, y=60, z=2710}
-[22:07:54] [Server thread/INFO]: _ATUK_ was shot by Jezura777
-[22:15:59] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[22:15:59] [Server thread/INFO]: _ATUK_ left the game
-[22:16:15] [Server thread/INFO]: Jezura777 lost connection: Disconnected
-[22:16:15] [Server thread/INFO]: Jezura777 left the game
-[22:16:37] [Server thread/INFO]: Stopping the server
-[22:16:37] [Server thread/INFO]: Stopping server
-[22:16:37] [Server thread/INFO]: Saving players
-[22:16:37] [Server thread/INFO]: Saving worlds
-[22:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:16:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:16:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:16:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:16:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:16:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:19:17] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[21:19:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:19:20] [ServerMain/INFO]: Loaded 7 recipes
+[21:19:20] [ServerMain/INFO]: Loaded 1271 advancements
+[21:19:20] [Server thread/INFO]: Starting minecraft server version 1.20
+[21:19:20] [Server thread/INFO]: Loading properties
+[21:19:20] [Server thread/INFO]: Default game type: SURVIVAL
+[21:19:20] [Server thread/INFO]: Generating keypair
+[21:19:20] [Server thread/INFO]: Starting Minecraft server on *:25566
+[21:19:20] [Server thread/INFO]: Using default channel type
+[21:19:20] [Server thread/INFO]: Preparing level "world"
+[21:19:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:19:22] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:19:22] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[21:19:22] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[21:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 33%
+[21:19:23] [Server thread/INFO]: Time elapsed: 1672 ms
+[21:19:23] [Server thread/INFO]: Done (2.197s)! For help, type "help"
+[21:19:52] [User Authenticator #1/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
+[21:19:52] [Server thread/INFO]: Jezura777[/127.0.0.1:58174] logged in with entity id 88 at (79.22370677589343, 70.0, -323.830201567156)
+[21:19:52] [Server thread/INFO]: Jezura777 joined the game
+[21:21:30] [User Authenticator #2/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[21:21:30] [Server thread/INFO]: _ATUK_[/127.205.67.183:58191] logged in with entity id 1490 at (85.03885205987712, 70.0, -321.36660641560513)
+[21:21:30] [Server thread/INFO]: _ATUK_ joined the game
+[21:22:19] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[21:22:19] [Server thread/INFO]: _ATUK_ left the game
+[21:24:04] [User Authenticator #3/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[21:24:04] [Server thread/INFO]: _ATUK_[/127.205.67.183:58207] logged in with entity id 2251 at (63.066160638667085, 70.0, -337.9045523192573)
+[21:24:04] [Server thread/INFO]: _ATUK_ joined the game
+[21:32:39] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[21:32:39] [Server thread/INFO]: _ATUK_ left the game
+[21:32:41] [User Authenticator #4/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[21:32:41] [Server thread/INFO]: _ATUK_[/127.205.67.183:58243] logged in with entity id 7351 at (-360.98474411600216, 63.53584062504456, 297.2389473205101)
+[21:32:41] [Server thread/INFO]: _ATUK_ joined the game
+[21:44:16] [Server thread/INFO]: <_ATUK_> ja to nemuzu uuuuuuupkne rict kvuly mamce ale moji spoluzaci zase hajlujou takzeee pohoda
+[21:53:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-318, y=61, z=273} gu{x=-318, y=60, z=273}
+[21:55:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-320, y=58, z=256} gu{x=-321, y=56, z=256}
+[21:55:37] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[21:55:37] [Server thread/INFO]: _ATUK_ left the game
+[21:55:43] [User Authenticator #5/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[21:55:43] [Server thread/INFO]: _ATUK_[/127.205.67.183:58358] logged in with entity id 27430 at (-318.85832541063695, 62.94888026745225, 259.4865628338433)
+[21:55:43] [Server thread/INFO]: _ATUK_ joined the game
+[21:57:07] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-333, y=54, z=234} gu{x=-334, y=53, z=234}
+[21:57:09] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-333, y=52, z=230} gu{x=-334, y=51, z=229}
+[21:57:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-338, y=52, z=233} gu{x=-338, y=50, z=233}
+[21:58:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-355, y=52, z=212} gu{x=-356, y=50, z=212}
+[21:58:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-355, y=52, z=212} gu{x=-356, y=50, z=212}
+[21:59:40] [Server thread/WARN]: _ATUK_ moved wrongly!
+[22:07:11] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[22:07:11] [Server thread/INFO]: _ATUK_ left the game
+[22:07:15] [User Authenticator #6/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[22:07:15] [Server thread/INFO]: _ATUK_[/127.205.67.183:58409] logged in with entity id 30733 at (-388.8190101642272, 63.0, 205.41306732013135)
+[22:07:15] [Server thread/INFO]: _ATUK_ joined the game
+[22:07:18] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[22:07:18] [Server thread/INFO]: _ATUK_ left the game
+[22:15:24] [Server thread/INFO]: Jezura777 lost connection: Disconnected
+[22:15:24] [Server thread/INFO]: Jezura777 left the game
+[22:15:36] [Server thread/INFO]: Stopping the server
+[22:15:37] [Server thread/INFO]: Stopping server
+[22:15:37] [Server thread/INFO]: Saving players
+[22:15:37] [Server thread/INFO]: Saving worlds
+[22:15:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:15:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:15:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
