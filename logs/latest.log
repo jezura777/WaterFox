@@ -1,68 +1,20 @@
-[21:19:17] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
-[21:19:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:19:20] [ServerMain/INFO]: Loaded 7 recipes
-[21:19:20] [ServerMain/INFO]: Loaded 1271 advancements
-[21:19:20] [Server thread/INFO]: Starting minecraft server version 1.20
-[21:19:20] [Server thread/INFO]: Loading properties
-[21:19:20] [Server thread/INFO]: Default game type: SURVIVAL
-[21:19:20] [Server thread/INFO]: Generating keypair
-[21:19:20] [Server thread/INFO]: Starting Minecraft server on *:25566
-[21:19:20] [Server thread/INFO]: Using default channel type
-[21:19:20] [Server thread/INFO]: Preparing level "world"
-[21:19:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:19:22] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[21:19:22] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[21:19:22] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[21:19:22] [Worker-Main-5/INFO]: Preparing spawn area: 33%
-[21:19:23] [Server thread/INFO]: Time elapsed: 1672 ms
-[21:19:23] [Server thread/INFO]: Done (2.197s)! For help, type "help"
-[21:19:52] [User Authenticator #1/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
-[21:19:52] [Server thread/INFO]: Jezura777[/127.0.0.1:58174] logged in with entity id 88 at (79.22370677589343, 70.0, -323.830201567156)
-[21:19:52] [Server thread/INFO]: Jezura777 joined the game
-[21:21:30] [User Authenticator #2/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[21:21:30] [Server thread/INFO]: _ATUK_[/127.205.67.183:58191] logged in with entity id 1490 at (85.03885205987712, 70.0, -321.36660641560513)
-[21:21:30] [Server thread/INFO]: _ATUK_ joined the game
-[21:22:19] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[21:22:19] [Server thread/INFO]: _ATUK_ left the game
-[21:24:04] [User Authenticator #3/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[21:24:04] [Server thread/INFO]: _ATUK_[/127.205.67.183:58207] logged in with entity id 2251 at (63.066160638667085, 70.0, -337.9045523192573)
-[21:24:04] [Server thread/INFO]: _ATUK_ joined the game
-[21:32:39] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[21:32:39] [Server thread/INFO]: _ATUK_ left the game
-[21:32:41] [User Authenticator #4/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[21:32:41] [Server thread/INFO]: _ATUK_[/127.205.67.183:58243] logged in with entity id 7351 at (-360.98474411600216, 63.53584062504456, 297.2389473205101)
-[21:32:41] [Server thread/INFO]: _ATUK_ joined the game
-[21:44:16] [Server thread/INFO]: <_ATUK_> ja to nemuzu uuuuuuupkne rict kvuly mamce ale moji spoluzaci zase hajlujou takzeee pohoda
-[21:53:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-318, y=61, z=273} gu{x=-318, y=60, z=273}
-[21:55:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-320, y=58, z=256} gu{x=-321, y=56, z=256}
-[21:55:37] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[21:55:37] [Server thread/INFO]: _ATUK_ left the game
-[21:55:43] [User Authenticator #5/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[21:55:43] [Server thread/INFO]: _ATUK_[/127.205.67.183:58358] logged in with entity id 27430 at (-318.85832541063695, 62.94888026745225, 259.4865628338433)
-[21:55:43] [Server thread/INFO]: _ATUK_ joined the game
-[21:57:07] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-333, y=54, z=234} gu{x=-334, y=53, z=234}
-[21:57:09] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-333, y=52, z=230} gu{x=-334, y=51, z=229}
-[21:57:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-338, y=52, z=233} gu{x=-338, y=50, z=233}
-[21:58:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-355, y=52, z=212} gu{x=-356, y=50, z=212}
-[21:58:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-355, y=52, z=212} gu{x=-356, y=50, z=212}
-[21:59:40] [Server thread/WARN]: _ATUK_ moved wrongly!
-[22:07:11] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[22:07:11] [Server thread/INFO]: _ATUK_ left the game
-[22:07:15] [User Authenticator #6/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[22:07:15] [Server thread/INFO]: _ATUK_[/127.205.67.183:58409] logged in with entity id 30733 at (-388.8190101642272, 63.0, 205.41306732013135)
-[22:07:15] [Server thread/INFO]: _ATUK_ joined the game
-[22:07:18] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[22:07:18] [Server thread/INFO]: _ATUK_ left the game
-[22:15:24] [Server thread/INFO]: Jezura777 lost connection: Disconnected
-[22:15:24] [Server thread/INFO]: Jezura777 left the game
-[22:15:36] [Server thread/INFO]: Stopping the server
-[22:15:37] [Server thread/INFO]: Stopping server
-[22:15:37] [Server thread/INFO]: Saving players
-[22:15:37] [Server thread/INFO]: Saving worlds
-[22:15:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:15:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:15:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:15:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:03:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:03:01] [ServerMain/INFO]: Loaded 7 recipes
+[20:03:02] [ServerMain/INFO]: Loaded 1271 advancements
+[20:03:02] [Server thread/INFO]: Starting minecraft server version 1.20
+[20:03:02] [Server thread/INFO]: Loading properties
+[20:03:02] [Server thread/INFO]: Default game type: SURVIVAL
+[20:03:02] [Server thread/INFO]: Generating keypair
+[20:03:02] [Server thread/INFO]: Starting Minecraft server on *:25566
+[20:03:02] [Server thread/INFO]: Using default channel type
+[20:03:02] [Server thread/INFO]: Preparing level "world"
+[20:03:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:03:05] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:03:05] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:03:05] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[20:03:05] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:03:05] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[20:03:06] [Worker-Main-15/INFO]: Preparing spawn area: 1%
+[20:03:06] [Worker-Main-4/INFO]: Preparing spawn area: 68%
+[20:03:06] [Server thread/INFO]: Time elapsed: 3220 ms
+[20:03:06] [Server thread/INFO]: Done (4.048s)! For help, type "help"
