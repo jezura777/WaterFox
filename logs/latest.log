@@ -1,39 +1,103 @@
-[19:51:01] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:51:02] [ServerMain/INFO]: Loaded 7 recipes
-[19:51:03] [ServerMain/INFO]: Loaded 1271 advancements
-[19:51:03] [Server thread/INFO]: Starting minecraft server version 1.20
-[19:51:03] [Server thread/INFO]: Loading properties
-[19:51:03] [Server thread/INFO]: Default game type: SURVIVAL
-[19:51:03] [Server thread/INFO]: Generating keypair
-[19:51:03] [Server thread/INFO]: Starting Minecraft server on *:25566
-[19:51:03] [Server thread/INFO]: Using default channel type
-[19:51:03] [Server thread/INFO]: Preparing level "world"
-[19:51:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:51:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:51:07] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[19:51:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:51:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:51:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[19:51:08] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:51:08] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[19:51:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:51:08] [Worker-Main-3/INFO]: Preparing spawn area: 68%
-[19:51:09] [Server thread/INFO]: Time elapsed: 4177 ms
-[19:51:09] [Server thread/INFO]: Done (5.128s)! For help, type "help"
-[19:51:35] [User Authenticator #1/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[19:51:35] [Server thread/INFO]: _ATUK_[/127.0.0.1:50084] logged in with entity id 93 at (96.80855518366586, 78.0, -327.080191431864)
-[19:51:35] [Server thread/INFO]: _ATUK_ joined the game
-[20:14:34] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[20:14:34] [Server thread/INFO]: _ATUK_ left the game
-[20:14:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5535ms or 110 ticks behind
-[20:14:48] [Server thread/INFO]: Stopping the server
-[20:14:48] [Server thread/INFO]: Stopping server
-[20:14:48] [Server thread/INFO]: Saving players
-[20:14:48] [Server thread/INFO]: Saving worlds
-[20:14:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:14:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:14:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:14:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:14:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:14:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:14:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:21:20] [ServerMain/WARN]: Invalid registry value type detected for PerfOS counters. Should be REG_DWORD. Ignoring: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PerfOS\Performance\Disable Performance Counters.
+[20:21:22] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:21:22] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:119) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:91) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:94) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.lambda$get$1(YggdrasilServicesKeyInfo.java:81) ~[authlib-4.0.43.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.net.SocketException: Connection reset by peer
+	at sun.nio.ch.SocketDispatcher.write0(Native Method) ~[?:?]
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:54) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.tryWrite(NioSocketImpl.java:394) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.implWrite(NioSocketImpl.java:410) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.write(NioSocketImpl.java:440) ~[?:?]
+	at sun.nio.ch.NioSocketImpl$2.write(NioSocketImpl.java:819) ~[?:?]
+	at java.net.Socket$SocketOutputStream.write(Socket.java:1195) ~[?:?]
+	at sun.security.ssl.SSLSocketOutputRecord.flush(SSLSocketOutputRecord.java:271) ~[?:?]
+	at sun.security.ssl.HandshakeOutStream.flush(HandshakeOutStream.java:89) ~[?:?]
+	at sun.security.ssl.ClientHello$ClientHelloKickstartProducer.produce(ClientHello.java:645) ~[?:?]
+	at sun.security.ssl.SSLHandshake.kickstart(SSLHandshake.java:526) ~[?:?]
+	at sun.security.ssl.ClientHandshakeContext.kickstart(ClientHandshakeContext.java:112) ~[?:?]
+	at sun.security.ssl.TransportContext.kickstart(TransportContext.java:258) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:448) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:586) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1675) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1599) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:223) ~[?:?]
+	at com.mojang.authlib.HttpAuthenticationService.performGetRequest(HttpAuthenticationService.java:140) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:96) ~[authlib-4.0.43.jar:?]
+	... 9 more
+[20:21:22] [ServerMain/INFO]: Loaded 7 recipes
+[20:21:22] [ServerMain/INFO]: Loaded 1271 advancements
+[20:21:23] [Server thread/INFO]: Starting minecraft server version 1.20
+[20:21:23] [Server thread/INFO]: Loading properties
+[20:21:23] [Server thread/INFO]: Default game type: SURVIVAL
+[20:21:23] [Server thread/INFO]: Generating keypair
+[20:21:23] [Server thread/INFO]: Starting Minecraft server on *:25566
+[20:21:23] [Server thread/INFO]: Using default channel type
+[20:21:23] [Server thread/INFO]: Preparing level "world"
+[20:21:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:21:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:21:25] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:21:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[20:21:25] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:21:26] [Server thread/INFO]: Time elapsed: 1995 ms
+[20:21:26] [Server thread/INFO]: Done (2.532s)! For help, type "help"
+[20:21:50] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@41752bb1[id=<null>,name=_ATUK_,properties={},legacy=false] (/127.33.217.52:60407): Authentication servers are down. Please try again later, sorry!
+[20:21:50] [User Authenticator #1/ERROR]: Couldn't verify username because servers are unavailable
+[20:21:50] [Server thread/INFO]: com.mojang.authlib.GameProfile@41752bb1[id=<null>,name=_ATUK_,properties={},legacy=false] (/127.33.217.52:60407) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:22:02] [User Authenticator #2/INFO]: UUID of player Jezura777 is 9c7e9743-757f-48cc-9355-9fd7de264ba0
+[20:22:02] [Server thread/INFO]: Jezura777[/127.0.0.1:60413] logged in with entity id 93 at (12.064999791922396, 128.0, -56.19559766150135)
+[20:22:02] [Server thread/INFO]: Jezura777 joined the game
+[20:22:06] [Server thread/WARN]: Ignoring chat session from Jezura777 due to missing Services public key
+[20:22:16] [User Authenticator #3/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[20:22:16] [Server thread/INFO]: _ATUK_[/127.33.217.52:60424] logged in with entity id 524 at (90.88536283646043, 67.0, -328.01410502522475)
+[20:22:16] [Server thread/INFO]: _ATUK_ joined the game
+[20:22:16] [Server thread/WARN]: Ignoring chat session from _ATUK_ due to missing Services public key
+[20:38:47] [Server thread/INFO]: _ATUK_ lost connection: Timed out
+[20:38:47] [Server thread/INFO]: _ATUK_ left the game
+[20:39:49] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@38aac4d3[id=<null>,name=_ATUK_,properties={},legacy=false] (/127.33.217.52:60716): Authentication servers are down. Please try again later, sorry!
+[20:39:49] [User Authenticator #4/ERROR]: Couldn't verify username because servers are unavailable
+[20:39:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@38aac4d3[id=<null>,name=_ATUK_,properties={},legacy=false] (/127.33.217.52:60716) lost connection: Authentication servers are down. Please try again later, sorry!
+[20:39:58] [User Authenticator #5/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[20:39:58] [Server thread/INFO]: _ATUK_[/127.33.217.52:60723] logged in with entity id 8623 at (83.87885584990119, 70.0, -323.02916703565427)
+[20:39:58] [Server thread/INFO]: _ATUK_ joined the game
+[20:39:58] [Server thread/WARN]: Ignoring chat session from _ATUK_ due to missing Services public key
+[21:05:01] [Server thread/WARN]: _ATUK_ was kicked for floating too long!
+[21:05:01] [Server thread/INFO]: _ATUK_ lost connection: Flying is not enabled on this server
+[21:05:01] [Server thread/INFO]: _ATUK_ left the game
+[21:05:33] [User Authenticator #6/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[21:05:33] [Server thread/INFO]: _ATUK_[/127.33.217.52:61289] logged in with entity id 16919 at (97.48312383289013, 79.12136575960679, -346.01496014908673)
+[21:05:33] [Server thread/INFO]: _ATUK_ joined the game
+[21:05:33] [Server thread/WARN]: Ignoring chat session from _ATUK_ due to missing Services public key
+[21:05:53] [Server thread/WARN]: _ATUK_ moved too quickly! -16.892021735893294,2.0647887014226853,-5.991401144413089
+[21:06:10] [Server thread/INFO]: Jezura777 lost connection: mobs u starege
+[21:06:10] [Server thread/INFO]: Jezura777 left the game
+[21:20:34] [Server thread/INFO]: _ATUK_ lost connection: Timed out
+[21:20:34] [Server thread/INFO]: _ATUK_ left the game
+[21:20:40] [User Authenticator #7/INFO]: Disconnecting com.mojang.authlib.GameProfile@63a551a5[id=<null>,name=_ATUK_,properties={},legacy=false] (/127.33.217.52:61498): Authentication servers are down. Please try again later, sorry!
+[21:20:40] [User Authenticator #7/ERROR]: Couldn't verify username because servers are unavailable
+[21:20:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@63a551a5[id=<null>,name=_ATUK_,properties={},legacy=false] (/127.33.217.52:61498) lost connection: Authentication servers are down. Please try again later, sorry!
+[21:20:47] [User Authenticator #8/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[21:20:47] [Server thread/INFO]: _ATUK_[/127.33.217.52:61507] logged in with entity id 21552 at (31.69999998807907, 59.0, -328.2089366416777)
+[21:20:47] [Server thread/INFO]: _ATUK_ joined the game
+[21:20:48] [Server thread/WARN]: Ignoring chat session from _ATUK_ due to missing Services public key
+[21:22:43] [Server thread/INFO]: Stopping server
+[21:22:43] [Server thread/INFO]: Saving players
+[21:22:43] [Server thread/INFO]: Saving worlds
+[21:22:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:22:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:22:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:22:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
