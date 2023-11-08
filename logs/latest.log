@@ -1,84 +1,116 @@
-[17:56:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:56:15] [ServerMain/INFO]: Loaded 7 recipes
-[17:56:15] [ServerMain/INFO]: Loaded 1271 advancements
-[17:56:16] [Server thread/INFO]: Starting minecraft server version 1.20
-[17:56:16] [Server thread/INFO]: Loading properties
-[17:56:16] [Server thread/INFO]: Default game type: SURVIVAL
-[17:56:16] [Server thread/INFO]: Generating keypair
-[17:56:16] [Server thread/INFO]: Starting Minecraft server on *:25566
-[17:56:16] [Server thread/INFO]: Using default channel type
-[17:56:17] [Server thread/INFO]: Preparing level "world"
-[17:56:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:56:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:56:20] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[17:56:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:56:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:56:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:56:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:56:21] [Worker-Main-8/INFO]: Preparing spawn area: 7%
-[17:56:21] [Worker-Main-1/INFO]: Preparing spawn area: 87%
-[17:56:21] [Server thread/INFO]: Time elapsed: 3563 ms
-[17:56:21] [Server thread/INFO]: Done (4.681s)! For help, type "help"
-[17:57:05] [User Authenticator #1/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
-[17:57:05] [Server thread/INFO]: _ATUK_[/127.0.0.1:58151] logged in with entity id 93 at (-121.14917480143396, 56.0, -411.3310232562914)
-[17:57:05] [Server thread/INFO]: _ATUK_ joined the game
-[18:01:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-134, y=56, z=-429} gu{x=-134, y=56, z=-430}
-[18:01:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-134, y=56, z=-429} gu{x=-134, y=56, z=-430}
-[18:01:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-134, y=56, z=-429} gu{x=-134, y=56, z=-430}
-[18:01:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-134, y=56, z=-429} gu{x=-134, y=56, z=-430}
-[18:01:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-134, y=56, z=-429} gu{x=-134, y=56, z=-430}
-[18:01:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-134, y=56, z=-429} gu{x=-134, y=56, z=-430}
-[18:01:14] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-134, y=56, z=-429} gu{x=-134, y=56, z=-430}
-[18:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-124, y=56, z=-420} gu{x=-122, y=56, z=-419}
-[18:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-124, y=56, z=-420} gu{x=-122, y=56, z=-419}
-[18:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-124, y=56, z=-420} gu{x=-122, y=56, z=-419}
-[18:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-124, y=56, z=-420} gu{x=-122, y=56, z=-419}
-[18:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-124, y=56, z=-420} gu{x=-122, y=56, z=-419}
-[18:05:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-130, y=55, z=-412} gu{x=-131, y=54, z=-412}
-[18:05:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-130, y=55, z=-412} gu{x=-131, y=54, z=-412}
-[18:05:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-130, y=55, z=-412} gu{x=-131, y=54, z=-412}
-[18:10:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-129, y=56, z=-414} gu{x=-130, y=56, z=-414}
-[18:10:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-129, y=56, z=-414} gu{x=-130, y=56, z=-414}
-[18:10:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-122, y=56, z=-414} gu{x=-123, y=55, z=-414}
-[18:11:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-120, y=53, z=-426} gu{x=-120, y=52, z=-428}
-[18:11:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-120, y=53, z=-421} gu{x=-120, y=53, z=-422}
-[18:11:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-120, y=53, z=-421} gu{x=-120, y=53, z=-422}
-[18:11:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-120, y=53, z=-421} gu{x=-120, y=53, z=-422}
-[18:11:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-123, y=55, z=-415} gu{x=-122, y=54, z=-415}
-[18:11:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-123, y=55, z=-415} gu{x=-122, y=54, z=-415}
-[18:11:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-123, y=55, z=-415} gu{x=-122, y=54, z=-415}
-[18:11:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-123, y=55, z=-415} gu{x=-122, y=54, z=-415}
-[18:11:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-128, y=53, z=-414} gu{x=-127, y=52, z=-414}
-[18:11:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-128, y=53, z=-414} gu{x=-127, y=52, z=-414}
-[18:11:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-128, y=53, z=-414} gu{x=-127, y=52, z=-414}
-[18:16:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-121, y=55, z=-426} gu{x=-121, y=54, z=-425}
-[18:16:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-124, y=51, z=-415} gu{x=-125, y=51, z=-415}
-[18:16:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-124, y=51, z=-415} gu{x=-125, y=51, z=-415}
-[18:16:21] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-124, y=51, z=-415} gu{x=-125, y=51, z=-415}
-[18:23:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-135, y=49, z=-415} gu{x=-134, y=49, z=-415}
-[18:23:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-135, y=49, z=-415} gu{x=-134, y=49, z=-415}
-[18:23:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-135, y=49, z=-415} gu{x=-134, y=49, z=-415}
-[18:23:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-135, y=49, z=-415} gu{x=-134, y=49, z=-415}
-[18:23:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-135, y=49, z=-415} gu{x=-134, y=49, z=-415}
-[18:27:09] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-127, y=48, z=-429} gu{x=-128, y=47, z=-429}
-[18:27:09] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-127, y=48, z=-429} gu{x=-128, y=47, z=-429}
-[18:38:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-137, y=41, z=-419} gu{x=-137, y=41, z=-420}
-[18:38:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-137, y=41, z=-419} gu{x=-137, y=41, z=-420}
-[18:38:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-137, y=41, z=-419} gu{x=-137, y=41, z=-420}
-[18:38:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-137, y=41, z=-419} gu{x=-137, y=41, z=-420}
-[18:38:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-137, y=41, z=-419} gu{x=-137, y=41, z=-420}
-[18:38:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-137, y=40, z=-422} gu{x=-137, y=40, z=-423}
-[18:38:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-137, y=41, z=-425} gu{x=-137, y=40, z=-425}
-[19:18:16] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
-[19:18:16] [Server thread/INFO]: _ATUK_ left the game
-[20:04:52] [Server thread/INFO]: Stopping the server
-[20:04:52] [Server thread/INFO]: Stopping server
-[20:04:52] [Server thread/INFO]: Saving players
-[20:04:52] [Server thread/INFO]: Saving worlds
-[20:04:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:04:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:04:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:04:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:58:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:58:38] [ServerMain/INFO]: Loaded 7 recipes
+[16:58:39] [ServerMain/INFO]: Loaded 1271 advancements
+[16:58:39] [Server thread/INFO]: Starting minecraft server version 1.20
+[16:58:39] [Server thread/INFO]: Loading properties
+[16:58:39] [Server thread/INFO]: Default game type: SURVIVAL
+[16:58:39] [Server thread/INFO]: Generating keypair
+[16:58:39] [Server thread/INFO]: Starting Minecraft server on *:25566
+[16:58:39] [Server thread/INFO]: Using default channel type
+[16:58:39] [Server thread/INFO]: Preparing level "world"
+[16:58:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:58:42] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[16:58:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:58:42] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[16:58:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:58:42] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[16:58:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:58:43] [Worker-Main-13/INFO]: Preparing spawn area: 38%
+[16:58:43] [Server thread/INFO]: Time elapsed: 3376 ms
+[16:58:43] [Server thread/INFO]: Done (4.178s)! For help, type "help"
+[16:58:52] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:119) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:91) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:94) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.lambda$get$1(YggdrasilServicesKeyInfo.java:81) ~[authlib-4.0.43.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[?:?]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+Caused by: java.net.SocketTimeoutException: Connect timed out
+	at sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:546) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[?:?]
+	at java.net.Socket.connect(Socket.java:639) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:304) ~[?:?]
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:178) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:531) ~[?:?]
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:636) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:266) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:380) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:193) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1290) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1131) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:179) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1668) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1592) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:224) ~[?:?]
+	at com.mojang.authlib.HttpAuthenticationService.performGetRequest(HttpAuthenticationService.java:140) ~[authlib-4.0.43.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:96) ~[authlib-4.0.43.jar:?]
+	... 9 more
+[16:58:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8786ms or 175 ticks behind
+[17:11:15] [User Authenticator #1/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[17:11:15] [Server thread/INFO]: _ATUK_[/127.0.0.1:49152] logged in with entity id 93 at (89.50302962759895, 79.0, -334.1258959918102)
+[17:11:15] [Server thread/INFO]: _ATUK_ joined the game
+[17:23:58] [Server thread/WARN]: _ATUK_ moved wrongly!
+[17:30:07] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[17:30:07] [Server thread/INFO]: _ATUK_ left the game
+[17:30:52] [User Authenticator #2/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[17:30:52] [Server thread/INFO]: _ATUK_[/127.0.0.1:49230] logged in with entity id 5993 at (83.49568692609738, 71.0, -349.7586918953815)
+[17:30:52] [Server thread/INFO]: _ATUK_ joined the game
+[17:34:55] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[17:34:55] [Server thread/INFO]: _ATUK_ left the game
+[17:35:37] [User Authenticator #3/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[17:35:37] [Server thread/INFO]: _ATUK_[/127.0.0.1:49252] logged in with entity id 7474 at (94.05803474044475, 76.0, -349.82942520889276)
+[17:35:37] [Server thread/INFO]: _ATUK_ joined the game
+[17:47:39] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[17:47:39] [Server thread/INFO]: _ATUK_ left the game
+[17:49:57] [User Authenticator #4/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[17:49:57] [Server thread/INFO]: _ATUK_[/127.0.0.1:49310] logged in with entity id 10866 at (88.23750001192093, 71.0, -350.86517446493576)
+[17:49:57] [Server thread/INFO]: _ATUK_ joined the game
+[17:50:48] [Server thread/WARN]: _ATUK_ moved wrongly!
+[18:02:34] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[18:02:34] [Server thread/INFO]: _ATUK_ left the game
+[18:03:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b115d86[id=<null>,name=_ATUK_,properties={},legacy=false] (/127.0.0.1:49362) lost connection: Disconnected
+[18:03:20] [User Authenticator #5/INFO]: Disconnecting com.mojang.authlib.GameProfile@46ab478[id=<null>,name=_ATUK_,properties={},legacy=false] (/127.0.0.1:49364): Authentication servers are down. Please try again later, sorry!
+[18:03:20] [User Authenticator #5/ERROR]: Couldn't verify username because servers are unavailable
+[18:03:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@46ab478[id=<null>,name=_ATUK_,properties={},legacy=false] (/127.0.0.1:49364) lost connection: Authentication servers are down. Please try again later, sorry!
+[18:03:28] [User Authenticator #6/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[18:03:28] [Server thread/INFO]: _ATUK_[/127.0.0.1:49376] logged in with entity id 14831 at (94.49436523607132, 76.0, -320.26157459474376)
+[18:03:28] [Server thread/INFO]: _ATUK_ joined the game
+[18:04:21] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[18:04:21] [Server thread/INFO]: _ATUK_ left the game
+[18:04:45] [User Authenticator #7/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[18:04:46] [Server thread/INFO]: _ATUK_[/127.0.0.1:49397] logged in with entity id 15507 at (92.66492320856692, 75.0, -322.30000001192093)
+[18:04:46] [Server thread/INFO]: _ATUK_ joined the game
+[18:04:55] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[18:04:55] [Server thread/INFO]: _ATUK_ left the game
+[18:05:15] [User Authenticator #8/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[18:05:15] [Server thread/INFO]: _ATUK_[/127.0.0.1:49418] logged in with entity id 16102 at (93.43610948710341, 74.0, -322.1743041240475)
+[18:05:15] [Server thread/INFO]: _ATUK_ joined the game
+[18:40:06] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[18:40:06] [Server thread/INFO]: _ATUK_ left the game
+[18:57:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@443bb936[id=<null>,name=_ATUK_,properties={},legacy=false] (/127.0.0.1:49688) lost connection: Disconnected
+[18:57:39] [User Authenticator #9/INFO]: UUID of player _ATUK_ is 20064d42-9fd8-453b-a86f-374d377bb190
+[18:57:39] [Server thread/INFO]: _ATUK_[/127.0.0.1:49697] logged in with entity id 27541 at (98.75893728723673, 78.0, -325.18772308843234)
+[18:57:39] [Server thread/INFO]: _ATUK_ joined the game
+[19:05:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=83, y=70, z=-344} gu{x=83, y=70, z=-343}
+[19:05:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=83, y=70, z=-344} gu{x=83, y=70, z=-343}
+[19:05:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=83, y=70, z=-344} gu{x=83, y=70, z=-343}
+[19:06:01] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=83, y=70, z=-338} gu{x=83, y=70, z=-337}
+[19:48:03] [Server thread/INFO]: _ATUK_ lost connection: Disconnected
+[19:48:03] [Server thread/INFO]: _ATUK_ left the game
+[19:48:09] [Server thread/INFO]: Stopping the server
+[19:48:10] [Server thread/INFO]: Stopping server
+[19:48:10] [Server thread/INFO]: Saving players
+[19:48:10] [Server thread/INFO]: Saving worlds
+[19:48:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:48:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:48:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:48:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:48:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:48:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:48:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
