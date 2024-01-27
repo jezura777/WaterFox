@@ -1,0 +1,21 @@
+last_update = 1699478813152
+api_url = "https://api.playit.cloud/agent"
+ping_target_addresses = []
+control_address = "control.playit.gg"
+refresh_from_api = true
+api_refresh_rate = 5000
+ping_interval = 5000
+secret_key = "50fb1d997e4088414314db203ddbf6622578332fb32a21b2182492ce14e4bc9a"
+
+[[mappings]]
+name = "Minecraft Java"
+proto = "tcp"
+tunnel_ip = "147.185.221.16"
+tunnel_from_port = 12872
+local_port = 25566
+
+[[mappings]]
+proto = "tcp"
+tunnel_ip = "147.185.221.223"
+tunnel_from_port = 32915
+local_port = 25566
